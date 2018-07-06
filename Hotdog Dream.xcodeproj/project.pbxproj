@@ -13,6 +13,7 @@
 		70BC0E6B20E96FB4000E82F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70BC0E6A20E96FB4000E82F3 /* Assets.xcassets */; };
 		70BC0E6E20E96FB4000E82F3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70BC0E6C20E96FB4000E82F3 /* LaunchScreen.storyboard */; };
 		70BC0E7620E98BF0000E82F3 /* Emitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BC0E7520E98BF0000E82F3 /* Emitter.swift */; };
+		70BC0E9620EF0EC9000E82F3 /* TestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BC0E9520EF0EC9000E82F3 /* TestController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		70BC0E6D20E96FB4000E82F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		70BC0E6F20E96FB4000E82F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		70BC0E7520E98BF0000E82F3 /* Emitter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emitter.swift; sourceTree = "<group>"; };
+		70BC0E9520EF0EC9000E82F3 /* TestController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				70BC0E6320E96FB2000E82F3 /* AppDelegate.swift */,
 				70BC0E6520E96FB2000E82F3 /* ViewController.swift */,
+				70BC0E9520EF0EC9000E82F3 /* TestController.swift */,
 				70BC0E6720E96FB2000E82F3 /* Main.storyboard */,
 				70BC0E6A20E96FB4000E82F3 /* Assets.xcassets */,
 				70BC0E6C20E96FB4000E82F3 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				70BC0E6620E96FB2000E82F3 /* ViewController.swift in Sources */,
 				70BC0E6420E96FB2000E82F3 /* AppDelegate.swift in Sources */,
 				70BC0E7620E98BF0000E82F3 /* Emitter.swift in Sources */,
+				70BC0E9620EF0EC9000E82F3 /* TestController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
